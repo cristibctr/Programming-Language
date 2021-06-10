@@ -1,0 +1,45 @@
+int GGG = 2?
+int x = 4, y = 5 ?
+int tvect[100] ?
+int TEST(int, int, int) {} ?
+int TEST(elf, int) {} ?
+float FTEST(int) {} ?
+
+int myInt ?
+int lfac( ) {} ?
+elf Cristi(elf,int) {} ?
+tree vector[100] ?
+int i ?
+int ok ?
+int n = 7 , ga = 3 ?
+int gifts = 1 ?
+int m = 1 ?
+tree a = "abc" ?
+tree b = "def" ?
+float c = 11.5 ?
+bells j = "a" ?
+int k?
+elf abc(float) { int GGG1 ? } ?
+reindeer float pool = 12.34 ?
+Christmas class { public gifts : int ~fun(int) {} ? int GGG2 ?} ?
+float mat[100] ? 
+Christmas class2 { 
+	private gifts : 
+	tree ~hohoSanta(elf) { elf santa ? } ? 
+	} ?
+
+It's beginning to look a lot like Christmas
+
+tvect[2] = 10 ?
+GGG = GGG + 5 * 3 - 34 - 4?
+if you love Christmas you get (x + 23 < 5 || y < 45 &&(x+5<56||x==2)) {} ?
+
+vector[1] = a+b ?
+abc(12.32) ?
+while Christmas goes on ( ok ) {} ?
+for each gift ( i = 1 ? i < n ? i -= 1 ) ? 
+if you love Christmas you get ( gifts ) { }  else you're a Grinch { } ?
+for each gift ( i = 0 ? i <= m ? i += 1 ) 
+	    { k = 4 % 2 ? } ?
+Eval(ga+n) ?
+Christmas never ends

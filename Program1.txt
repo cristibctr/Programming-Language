@@ -1,0 +1,32 @@
+int myInt ?
+int lfac( ) {} ?
+elf Cristi(elf,int) {} ?
+tree vector[100] ?
+int i ?
+int ok ?
+int n = 7 , ga = 3 ?
+int gifts = 1 ?
+int m = 1 ?
+tree a = "abc" ?
+tree b = "def" ?
+float c = 11.5 ?
+bells j = "a" ?
+int k?
+elf abc(float) {} ?
+reindeer float pool = 12.34 ?
+Christmas class { public gifts : int ~fun(int) {} ? } ?
+float mat[100] ? 
+Christmas class2 { 
+	private gifts : 
+	tree ~hohoSanta(elf) { elf santa ? } ? 
+	} ?
+It's beginning to look a lot like Christmas
+vector[1] = a+b ?
+abc(12.32) ?
+while Christmas goes on ( ok ) {} ?
+for each gift ( i = 1 ? i < n ? i -= 1 ) ? 
+if you love Christmas you get ( gifts ) { }  else you're a Grinch { } ?
+for each gift ( i = 0 ? i <= m ? i += 1 ) 
+	    { k = 4 % 2 ? } ?
+Eval((ga+n)*10-100) ?
+Christmas never ends
